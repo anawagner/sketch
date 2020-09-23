@@ -1,0 +1,27 @@
+h1, h1 + div {
+  text-align:  center;
+}
+
+p {
+  padding: 0px;
+  margin: 0px;
+}
+
+#content {
+  display: grid;
+  justify-content: center;
+  align-content: center;
+}
+
+#sketchpad {
+  margin: 0;
+  padding: 0;
+  height: 500px;
+  width: 500px;
+  display: grid;
+  border: 1px solid black;
+}
+
+.tile {
+  background-color: white;
+}
